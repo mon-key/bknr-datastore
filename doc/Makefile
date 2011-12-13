@@ -1,5 +1,5 @@
-PBOOK=../../tools/pbook.py
-DEST=/home/bknr/public_html/pdf
+PBOOK=./pbook.py
+DEST=./
 
 all: manual.pdf
 
